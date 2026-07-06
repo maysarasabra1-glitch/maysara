@@ -32,13 +32,13 @@ export default function DashboardView({ onSelectDistrict, onNavigateToTab }: Das
         
         <div className="relative z-10 max-w-3xl">
           <span className="bg-amber-500 text-slate-950 text-xs font-extrabold px-3 py-1 rounded-full tracking-wide uppercase">
-            مستقبل الإدارة المحلية الرقمية
+            مبادرة أمانة المجالس المحلية - حزب مستقبل وطن
           </span>
           <h2 className="text-3xl md:text-4xl font-black text-white mt-4 mb-3 leading-snug">
-            تمكين الرقابة الشعبية والتطوير البلدي بمحافظة القاهرة
+            تطوير الرقابة الشعبية والتنمية الخدمية بمحافظة القاهرة
           </h2>
           <p className="text-slate-300 text-sm md:text-base leading-relaxed mb-6">
-            منصة <strong className="text-amber-400">محليات وطن</strong> تجمع بين المواطنين وأعضاء المجالس المحلية المنتخبة ورؤساء الأحياء في العاصمة. نهدف إلى تعزيز الشفافية، ومتابعة تنفيذ المشروعات المحلية، وتسهيل تقديم الشكاوى وحلها بالذكاء الاصطناعي.
+            منصة <strong className="text-amber-400">محليات وطن</strong> هي المبادرة الرقمية الرائدة من <strong className="text-amber-400">حزب مستقبل وطن</strong> لتفعيل العمل البلدي وربط المواطنين بنواب الحزب في المجالس المحلية والأجهزة التنفيذية بمحافظة القاهرة، لمتابعة وحل مشكلات البنية التحتية والمرافق بكفاءة ومسؤولية.
           </p>
           
           <div className="flex flex-wrap gap-3">

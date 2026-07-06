@@ -43,11 +43,14 @@ export default function Header({ activeTab, setActiveTab }: HeaderProps) {
               <div className="flex items-center gap-2">
                 <h1 className="text-2xl font-black tracking-tight text-amber-400">مَحليات وَطَن</h1>
                 <span className="text-xs bg-emerald-700/80 text-emerald-200 px-2 py-0.5 rounded-full border border-emerald-600 font-medium">
+                  حزب مستقبل وطن
+                </span>
+                <span className="text-xs bg-amber-500/20 text-amber-300 px-2 py-0.5 rounded-full border border-amber-500/30 font-medium hidden sm:inline-block">
                   محافظة القاهرة
                 </span>
               </div>
               <p className="text-xs text-emerald-100 font-light mt-0.5">
-                المنصة المتكاملة للمجالس المحلية الشعبية والرقابة البلدية والمشاركة المجتمعية
+                المنصة الرقمية لأمانة الشؤون البرلمانية والمجالس المحلية الشعبية - حزب مستقبل وطن بالقاهرة
               </p>
             </div>
           </div>

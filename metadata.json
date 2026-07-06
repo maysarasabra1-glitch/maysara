@@ -1,6 +1,6 @@
 {
   "name": "محليات وطن",
-  "description": "المنصة الرقمية المتكاملة لمتابعة شؤون المجالس المحلية وتيسير الخدمات البلدية بمحافظة القاهرة",
+  "description": "المنصة الرقمية المتكاملة لمتابعة شؤون المجالس المحلية وتيسير الخدمات  بمحافظة القاهرة",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
